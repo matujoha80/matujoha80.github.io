@@ -1,6 +1,7 @@
 body {
   background-image: url("tausta.jpg");
-  
+   background-size: contain;
+   background-repeat: no-repeat;
 }
 
 h1 {
